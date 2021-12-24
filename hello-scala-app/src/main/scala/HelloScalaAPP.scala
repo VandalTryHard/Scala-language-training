@@ -1,6 +1,8 @@
+package main.scala
+
 import scala.io.StdIn
 
-object HelloScalaApp {
+object HelloScalaAPP {
   def main(args: Array[String]): Unit = {
     println("Hello Scala!!!")
 
